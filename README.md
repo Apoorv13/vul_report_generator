@@ -1,2 +1,3 @@
-# vul_report_generator
-A small project to help me with report generation for the vulnerabilities found. It takes MongoDB as a backend , and flask for creation of reports identifying the image uplaoded and using a vulnerability description dictionary at the backend
+Code that goes along with a video I made here: https://www.youtube.com/watch?v=vVx1737auSE
+
+This is for a user login system using Flask and MongoDB.
